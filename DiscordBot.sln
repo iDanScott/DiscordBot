@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot", "DiscordBot\DiscordBot.csproj", "{BFB9C480-1B7C-4972-844A-BA4D9DEA5E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitrado.API", "Nitrado.API\Nitrado.API.csproj", "{62B66D76-AA1E-44CC-819A-D4BED2644BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot.Core", "DiscordBot.Core\DiscordBot.Core.csproj", "{969E003D-E5CB-4938-A4A9-21EF562F6062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB9C480-1B7C-4972-844A-BA4D9DEA5E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB9C480-1B7C-4972-844A-BA4D9DEA5E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB9C480-1B7C-4972-844A-BA4D9DEA5E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB9C480-1B7C-4972-844A-BA4D9DEA5E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B66D76-AA1E-44CC-819A-D4BED2644BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B66D76-AA1E-44CC-819A-D4BED2644BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B66D76-AA1E-44CC-819A-D4BED2644BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B66D76-AA1E-44CC-819A-D4BED2644BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969E003D-E5CB-4938-A4A9-21EF562F6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969E003D-E5CB-4938-A4A9-21EF562F6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969E003D-E5CB-4938-A4A9-21EF562F6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969E003D-E5CB-4938-A4A9-21EF562F6062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0721FF8E-E501-46E7-85AF-3E85CB51F76F}
+	EndGlobalSection
+EndGlobal
